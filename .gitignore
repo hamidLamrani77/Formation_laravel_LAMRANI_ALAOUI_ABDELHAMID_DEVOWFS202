@@ -1,0 +1,4 @@
+*.txt
+CoursApp/vendor/
+CoursApp/node_modules/
+.env
